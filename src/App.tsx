@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  const imagePath: string = "/public/subdir/vite.svg";
+  const imagePath: string = "/subdir/vite.svg";
 
   return (
     <>
