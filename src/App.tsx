@@ -1,11 +1,9 @@
 import "./App.css";
 
 function App() {
-  const imagePath: string = "/subdir/vite.svg";
-
   return (
     <>
-      <img src={imagePath} alt="Vite Logo" />
+      <p>This is daidai411.com</p>
     </>
   );
 }
